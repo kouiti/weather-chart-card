@@ -713,6 +713,40 @@ const locale = {
     'windy': 'Vânt',
     'windy-variant': 'Vânt'
   },
+  jp: {
+    'tempHi': '最高気温',
+    'tempLo': '最低気温',
+    'precip': '降水量',
+    'feelsLike': '体感温度',
+    'units': {
+      'km/h': 'km/h',
+      'm/s': 'm/s',
+      'mph': 'mph',
+      'Bft': 'Bft',
+      'hPa': 'hPa',
+      'mmHg': 'mm Hg',
+      'mm': 'mm',
+      'in': 'in'
+    },
+    'cardinalDirections': [
+      'N', 'N-NE', 'NE', 'E-NE', 'E', 'E-SE', 'SE', 'S-SE',
+      'S', 'S-SW', 'SW', 'W-SW', 'W', 'W-NW', 'NW', 'N-NW', 'N'
+    ],
+    'clear-night': '晴れ,夜',
+    'cloudy': '曇り',
+    'fog': '霧',
+    'hail': 'あられ',
+    'lightning': '雷',
+    'lightning-rainy': '雷雨',
+    'partlycloudy': '時々曇り',
+    'pouring': '大雨',
+    'rainy': '雨',
+    'snowy': '雪',
+    'snowy-rainy': '雪雨',
+    'sunny': '晴れ',
+    'windy': '風',
+    'windy-variant': '強い風'
+  },
   uk: {
     'tempHi': 'Температура',
     'tempLo': 'Температура вночі',
